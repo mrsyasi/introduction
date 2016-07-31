@@ -1,2 +1,2 @@
 # introduction
-About ME
+Git tutorial
